@@ -1,5 +1,9 @@
 # 3A_2023
 
+Collaboration:
+* Google Colab: https://colab.research.google.com/drive/1SRxJLP6UT0qfiCV1EpYtoIKtVABoUdQB?usp=sharing#scrollTo=z53PaYklZmIn
+* Google Docs: https://docs.google.com/document/d/1yXS04arK0uv8mvK6Jdi7PG3JvGZ9-_u2vPQBMwT8gzI/edit#heading=h.6t414bvs6mrh
+
 The preprocessed CSV file is available at: https://uni-koeln.sciebo.de/s/oLHNxKNQonYZ0ni
 
 The prepared pickled files are available at: https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
