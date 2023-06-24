@@ -10,4 +10,6 @@ Dependencies (excerpt):
 
 * KeplerGL (https://kepler.gl/)
 
-* Chicago City boundaries (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-City/ewy2-6yfk)
+* Chicago City Boundaries (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-City/ewy2-6yfk)
+
+* Chicago Census Tracts Boundaries (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik)
