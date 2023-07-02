@@ -11,6 +11,8 @@ The prepared pickle files are available at: https://uni-koeln.sciebo.de/s/H3SCw3
 Since the number of visualizations has made it impossible to upload the visualization notebook, it is available here: 
 https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
 
+Points of interest: https://mygeodata.cloud/data/download/osm/-/united-states-of-america--illinois/cook-county/chicago
+
 Dependencies (excerpt):
 
 * H3 Uber (https://h3geo.org/)
