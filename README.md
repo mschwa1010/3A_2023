@@ -6,7 +6,7 @@ Collaboration:
 
 The preprocessed CSV file is available at: https://uni-koeln.sciebo.de/s/oLHNxKNQonYZ0ni
 
-The prepared pickled files are available at: https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
+The prepared pickled files (including 02_Data_Visualization draft) are available at: https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
 
 Dependencies (excerpt):
 
