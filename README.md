@@ -8,6 +8,8 @@ The preprocessed CSV file is available at: https://uni-koeln.sciebo.de/s/oLHNxKN
 
 The prepared pickled files (including 02_Data_Visualization draft) are available at: https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
 
+Points of interest: https://mygeodata.cloud/data/download/osm/points-of-interest/united-states-of-america--illinois/cook-county/chicago
+
 Dependencies (excerpt):
 
 * H3 Uber (https://h3geo.org/)
