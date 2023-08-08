@@ -7,7 +7,9 @@ Collaboration:
 The preprocessed CSV file is available at: https://uni-koeln.sciebo.de/s/oLHNxKNQonYZ0ni
 
 The prepared pickled files (including 02_Data_Visualization draft) are available at: https://uni-koeln.sciebo.de/s/H3SCw3jfhxBQVkl
+
 df_trips_cleaned.pkl -> https://drive.google.com/file/d/1-JKoPDeOQlPEEdPcv1KjuLVnOWvAa8b6/view?usp=drive_link
+
 df_trips_extended.pkl - > https://drive.google.com/file/d/1ErAVEImiATQ3rbXSj5wrbPjT0ouyKseg/view?usp=drive_link
 
 Points of interest: https://mygeodata.cloud/data/download/osm/points-of-interest/united-states-of-america--illinois/cook-county/chicago
