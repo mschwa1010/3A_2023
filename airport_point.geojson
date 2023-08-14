@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sql_statement",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "aeroway": "terminal", "name": "Terminal 1 - international - Concorce C" }, "geometry": { "type": "Point", "coordinates": [ -87.9102587, 41.9789021 ] } }
+]
+}
