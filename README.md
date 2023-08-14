@@ -19,9 +19,9 @@ Involves analyzing the spatial attributes of the dataset.
 Identifies patterns and groupings within the dataset.
 - Notebook: `03_Cluster_Analysis.ipynb`
 
-### Task 4: Predictive Analysis
+### Task 4: Predictive Analytics
 Employs machine learning models, including SVMs and Neural Networks, to predict attributes.
-- Notebook: `04_Predictive_Analysis.ipynb`
+- Notebook: `04_Predictive_Analytics.ipynb`
 
 ### Task 5: Smart Charging
 Uses Reinforcement Learning to devise smart charging strategies.
