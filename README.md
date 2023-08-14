@@ -54,7 +54,7 @@ Due to their size, some datasets are hosted externally. Below are the direct lin
 - [Chicago Census Tracts Boundaries](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Census-Tracts-2010/5jrd-6zik)
 
 ## Contributors
-- Niklas Bertelt (7364657)
+- Niklas Bartelt (7364657)
 - Justus Bertelmann (7406300)
 - Robin Kirch (7364580)
 - Marten Lugenbiehl (7356761)
