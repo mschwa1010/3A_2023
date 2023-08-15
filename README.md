@@ -2,6 +2,9 @@
 
 This repository contains all the materials for the course project of Advanced Analytics and Application by group 3A23. The project is structured into various tasks, each represented by specific Jupyter notebooks.
 
+## Note on Google Colab and Data Import
+The notebooks `01_Data_Preparation.ipynb`, `01_Feature_Engineering.ipynb`, and `03_Cluster_Analysis.ipynb` were compiled using Google Colab and utilized data imported via Google Drive. It's crucial to manually reset the data path when using these notebooks, as the original path to the data may vary.
+
 ## Task Descriptions
 
 ### Task 1: Data Collection and Preparation
