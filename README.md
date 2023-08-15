@@ -4,7 +4,7 @@ This repository contains all the materials for the course project of Advanced An
 
 ## Note on Google Colab and Data Import
 The notebooks `01_Data_Preparation.ipynb`, `01_Feature_Engineering.ipynb`, and `03_Cluster_Analysis.ipynb` were compiled using Google Colab and utilized data imported via Google Drive. It's crucial to manually reset the data path when using these notebooks, as the original path to the data may vary.
-For the notebook `01_Weather_Data.ipynb`, it is important to download the weather data from Kaggle (the link is provided in the notebook) and import it into the data folder. As mentioned above, the data paths have to be altered here as well. 
+For the notebook `01_Weather_Data.ipynb`, it is important to download the weather data from Kaggle (the link is provided in the notebook) and import it into the data folder. As mentioned above, the data paths have to be altered here as well (relevant for all notebooks). 
 
 ## Task Descriptions
 
